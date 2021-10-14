@@ -126,7 +126,7 @@ Namun penulis menggunakan nodejs dengan stack sebagai berikut:
 
 Untuk pembahasan *ngoding*-nya mungkin akan dilanjutkan di lain hari, namun untuk aplikasi jadinya bisa dibuka pada tautan di bawah ini yah.
 
-https://github.com/withered-flowers/apps-validate-qwiklabs-juaragcp
+[Source Code](https://github.com/withered-flowers/apps-validate-qwiklabs-juaragcp)
 
 ## Closing
 Nah setelah mempelajari *Web Scraping* ini jadi tertarik untuk mengambil data dari situs mana nih?
