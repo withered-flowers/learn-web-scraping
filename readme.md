@@ -1,12 +1,12 @@
 
 ## Table of Content
-1. Intro
-1. Core
-    - Intro to Web Scraping
-    - Web Scraping Technique
-    - Scraping on Qwiklabs Public Profile
-1. Closing
-1. References
+1. [Intro](#intro)
+1. [Core](#core)
+    - [Intro to Web Scraping](#intro-to-web-scraping)
+    - [Web Scraping Technique](#web-scraping-technique)
+    - [Scraping on Qwiklabs Public Profile](#scraping-on-qwiklabs-public-profile)
+1. [Closing](#closing)
+1. [References](#references)
 
 ## Intro
 Beberapa waktu lalu pada event JuaraGCP Season 5, Komunitas mengalami masalah untuk melakukan validasi: "Quest apa sajakah yang sudah saya selesaikan dan valid untuk season ini?"
